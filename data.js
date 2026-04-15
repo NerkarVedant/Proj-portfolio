@@ -12,7 +12,7 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Branch Master",      // Used in the page title and footer",
+  name: "Branch Master for PR Request",      // Used in the page title and footer",
   firstName: "Branch Master",   // Used in the hero greeting
   lastName: "N",      // Displayed large in the hero section
   tagline: "DevOps Lead",
